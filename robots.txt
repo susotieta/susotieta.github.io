@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://susotieta.wbuyy.com/susotieta.txt
